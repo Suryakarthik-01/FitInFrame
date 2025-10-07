@@ -12,10 +12,10 @@ import About from './pages/About.jsx'
 import Women from './pages/Women.jsx'
 import Product from './pages/Product.jsx'
 import Login from './pages/Login.jsx'
-import Cart from './pages/CArt.jsx'
+import Cart from './pages/Cart.jsx'
 import PlaceOrder from './pages/PlaceOrder.jsx'
 import SearchBar from './components/SearchBar.jsx'
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer} from 'react-toastify';
 
 
 
